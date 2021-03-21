@@ -152,7 +152,7 @@ p{
 
 @media (max-width: 1028px){
   #title .container-fluid{
-    text-align: center;
+    text-align: center !important;
   }
   .title-img{
     position: static;
